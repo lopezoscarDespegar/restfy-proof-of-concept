@@ -1,0 +1,22 @@
+{
+  "name": "restfy-proof-of-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezoscarDespegar/restfy-proof-of-concept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopezoscarDespegar/restfy-proof-of-concept/issues"
+  },
+  "homepage": "https://github.com/lopezoscarDespegar/restfy-proof-of-concept#readme",
+  "dependencies": {
+    "restify": "^4.0.4"
+  }
+}
